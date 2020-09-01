@@ -1,4 +1,6 @@
-[
+{
+    "monsters":
+    [
     {
         "name": "Aboleth",
         "meta": "Large aberration, lawful evil",
@@ -186,3 +188,4 @@
         "Hit Points": "78 (12d8 + 24)"
     }
 ]
+}
